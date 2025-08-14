@@ -1,6 +1,6 @@
 module code.gitea.io/gitea
 
-go 1.22
+go 1.23.0
 
 require (
 	code.gitea.io/actions-proto-go v0.4.0
@@ -108,7 +108,7 @@ require (
 	golang.org/x/crypto v0.22.0
 	golang.org/x/image v0.15.0
 	golang.org/x/net v0.24.0
-	golang.org/x/oauth2 v0.18.0
+	golang.org/x/oauth2 v0.27.0
 	golang.org/x/sys v0.19.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.19.0
@@ -125,7 +125,7 @@ require (
 
 require (
 	cloud.google.com/go/compute v1.25.1 // indirect
-	cloud.google.com/go/compute/metadata v0.2.3 // indirect
+	cloud.google.com/go/compute/metadata v0.3.0 // indirect
 	dario.cat/mergo v1.0.0 // indirect
 	filippo.io/edwards25519 v1.1.0 // indirect
 	git.sr.ht/~mariusor/go-xsd-duration v0.0.0-20220703122237-02e73435a078 // indirect
