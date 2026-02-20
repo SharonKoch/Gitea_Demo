@@ -34,7 +34,7 @@
     "license-checker-webpack-plugin": "0.2.1",
     "mermaid": "10.9.0",
     "mini-css-extract-plugin": "2.8.1",
-    "minimatch": "9.0.4",
+    "minimatch": "10.2.1",
     "monaco-editor": "0.47.0",
     "monaco-editor-webpack-plugin": "7.1.0",
     "pdfobject": "2.3.0",
