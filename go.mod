@@ -1,6 +1,6 @@
 module code.gitea.io/gitea
 
-go 1.22
+go 1.25.0
 
 require (
 	code.gitea.io/actions-proto-go v0.4.0
@@ -109,7 +109,7 @@ require (
 	golang.org/x/image v0.15.0
 	golang.org/x/net v0.24.0
 	golang.org/x/oauth2 v0.18.0
-	golang.org/x/sys v0.19.0
+	golang.org/x/sys v0.44.0
 	golang.org/x/text v0.14.0
 	golang.org/x/tools v0.19.0
 	google.golang.org/grpc v1.62.1
